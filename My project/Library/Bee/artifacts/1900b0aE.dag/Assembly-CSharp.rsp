@@ -360,6 +360,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scenes/IA/Scripts/Campo de vision.cs"
+"Assets/Scenes/IA/Scripts/Field of view.cs"
 "Assets/Scenes/IA/Scripts/NavigationScript.cs"
 -langversion:9.0
 

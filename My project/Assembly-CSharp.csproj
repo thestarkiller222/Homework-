@@ -60,6 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.18f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scenes\IA\Scripts\Field of view.cs" />
     <Compile Include="Assets\Scenes\IA\Scripts\Campo de vision.cs" />
     <Compile Include="Assets\Scenes\IA\Scripts\NavigationScript.cs" />
   </ItemGroup>
