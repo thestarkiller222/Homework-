@@ -1760,7 +1760,7 @@ Transform:
   m_GameObject: {fileID: 1496291916}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.02727993, z: -0, w: 0.9996279}
-  m_LocalPosition: {x: 7.4, y: 0.87, z: 5.21}
+  m_LocalPosition: {x: 0.9, y: 0.87, z: 1.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1779,7 +1779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86a21f1d1cf54f243a84febb7a836dfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 2
+  radius: 7
   angle: 108
 --- !u!195 &1496291919
 NavMeshAgent:
