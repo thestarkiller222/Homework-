@@ -62,10 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scenes\IA\Scripts\Field of view.cs" />
     <Compile Include="Assets\Scenes\IA\Scripts\Campo de vision.cs" />
-    <Compile Include="Assets\Scenes\IA\Path finding &amp; S Behave\Scripts\Agent.cs" />
     <Compile Include="Assets\Scenes\IA\Scripts\NavigationScript.cs" />
-    <Compile Include="Assets\Scenes\IA\Path finding &amp; S Behave\Scripts\Node.cs" />
-    <Compile Include="Assets\Scenes\IA\Path finding &amp; S Behave\Scripts\DFSWithAgent.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

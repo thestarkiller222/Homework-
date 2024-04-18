@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/IA/Path finding & S Behave/Scene 1.unity
+- path: Assets/Scenes/IA/Nav Mesh.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
